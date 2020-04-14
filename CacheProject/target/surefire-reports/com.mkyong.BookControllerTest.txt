@@ -1,0 +1,36 @@
+-------------------------------------------------------------------------------
+Test set: com.mkyong.BookControllerTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 8, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in com.mkyong.BookControllerTest
+find_allBook_OK(com.mkyong.BookControllerTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.mkyong.BookControllerTest.init(BookControllerTest.java:48)
+
+save_book_OK(com.mkyong.BookControllerTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.mkyong.BookControllerTest.init(BookControllerTest.java:48)
+
+patch_bookAuthor_OK(com.mkyong.BookControllerTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.mkyong.BookControllerTest.init(BookControllerTest.java:48)
+
+update_book_OK(com.mkyong.BookControllerTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.mkyong.BookControllerTest.init(BookControllerTest.java:48)
+
+patch_bookPrice_405(com.mkyong.BookControllerTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.mkyong.BookControllerTest.init(BookControllerTest.java:48)
+
+delete_book_OK(com.mkyong.BookControllerTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.mkyong.BookControllerTest.init(BookControllerTest.java:48)
+
+find_bookIdNotFound_404(com.mkyong.BookControllerTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.mkyong.BookControllerTest.init(BookControllerTest.java:48)
+
+find_bookId_OK(com.mkyong.BookControllerTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.mkyong.BookControllerTest.init(BookControllerTest.java:48)
+
